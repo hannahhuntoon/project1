@@ -11,6 +11,9 @@ Questions for our project will be:
 
 All data will be taken from the census information provided by the United States Census Bureau specifically from the 2016 Presidential Election datasets.
 Dataset 1: Reported Voting and Registration, by Age, Sex, and Educational Attainment: November 2016
+
 Dataset 2: Reported Voting and Registration, by Age, for the United States, Regions, and Divisions: November 2016
+
 Dataset 3: Reported Voting and Registration of Family Members, by Age and Family Income: November 2016
+
 Dataset 4: Reported Voting and Registration, by Duration of Residence, and Tenure: November 2016 (All races)
