@@ -12,7 +12,7 @@ Questions for our project will be:
 
 Our original focus for this project was on voter registration and using data from the Census Bureau, but our scope shifted to look at candidates voted for in the 2016 General Election. We decided to change our focus because census data had already been analyzed and raw data was difficult to come across.
 
-Our data came from an online survey conducted by The Democracy Fund Voter Study Group and YouGov. The survey asked 116 questions from a sample size of 8,000. Questions ranged from basic demographic information to political preferences.
+Our data came from an online survey conducted by The Democracy Fund Voter Study Group and YouGov. The survey asked 116 questions from a sample size of 8,637. Questions ranged from basic demographic information to political preferences.
 
 Participants were recruited from the 2012 Cooperative Campaign Analysis Project (CCAP) and used a sample matching procedure managed by YouGov. Participants differed in age, marital status, political views, educational attainment, etc. Our original sample size included 8,000 participants, 7,038 remaining after cleaning the data.
 District of Columbia was included as a “state” – resulting in 51 total "states". Our data included all possible candidates and we narrowed our analysis to focus on the two major candidates: Hillary Clinton and Donald Trump. Please note that this further reduced our data set for some of our questions. 
